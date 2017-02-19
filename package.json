@@ -1,0 +1,20 @@
+{
+  "name": "sublime-prefs",
+  "version": "1.0.0",
+  "description": "ECHO is on.",
+  "main": "index.js",
+  "scripts": {
+    "info": "echo copy files/*.* to %appdata$/Sublime Text 3/Packages/User"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanSprout/sublime-prefs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumanSprout/sublime-prefs/issues"
+  },
+  "homepage": "https://github.com/HumanSprout/sublime-prefs#readme",
+  "private": true
+}
