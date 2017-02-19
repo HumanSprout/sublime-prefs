@@ -1,0 +1,6 @@
+[
+	{"keys": ["alt+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/cb-nl.sublime-macro"}},
+	{"keys": ["alt+end"], "command": "run_macro_file", "args": {"file": "Packages/User/end-ent.sublime-macro"}},
+	{"keys": ["alt+comma"], "command": "run_macro_file", "args": {"file": "Packages/User/end-com-ent.sublime-macro"}},
+	{"keys": ["alt+semicolon"], "command": "run_macro_file", "args": {"file": "Packages/User/end-semi-ent.sublime-macro"}}
+]
